@@ -27,7 +27,7 @@ I'm building toward strong front-end *and* back-end fundamentals, with a growing
 
 ## 🚧 What I'm working on
 
-- **Stoep** — a neighbourhood tool-lending marketplace (React + TypeScript), my Melsoft capstone. Full decision log, founder response doc, and deployed build.
+- **NearbyTool App** — a neighbourhood tool-lending marketplace (React + TypeScript), my Melsoft capstone. Full decision log, founder response doc, and deployed build.
 - **Toro Coffee Redesign** — a React + Tailwind CSS rebuild of torocoffee.co.za, based on a full UX heuristic audit (fixed broken CTAs, added social proof, improved accessibility). [Live](https://torocoffee-app.netlify.app)
 - **Kasi Excellence Tutoring** — a mobile-first, multi-page HTML/CSS site for a township-based tutoring business, from wireframes to a full custom design system.
 
