@@ -39,9 +39,9 @@ I'm building toward strong front-end *and* back-end fundamentals, with a growing
 
 ## 📫 Reach me
 
-- LinkedIn: *[add your link]*
-- Portfolio: *[add your link, if you have one]*
-- Email: *[optional]*
+- LinkedIn: *[www.linkedin.com/in/thami-sithole-70566b143]*
+- Portfolio: *[under construction...]*
+- Email: *[thamironeo.sithole@icloud.com]*
 
 ---
 <sub>⭐ from South Africa | Melsoft Academy '26</sub>
