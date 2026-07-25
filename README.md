@@ -15,11 +15,6 @@ I'm building toward strong front-end *and* back-end fundamentals, with a growing
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🎓 Certifications
 
 - Software Developer Certificate — **FNB App Academy** (2025)
